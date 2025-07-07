@@ -80,6 +80,10 @@
     "hhzy": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
+    },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源"
     }
   }
 }
